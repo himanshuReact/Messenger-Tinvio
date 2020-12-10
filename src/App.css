@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  display:flex ;
+
+}
+
+body {
+  font-family: 'Manrope' !important;
+}
+.app__form{
+  padding: 20px;
+  position: fixed;
+  bottom : 0;
+  z-index : 1;
+  background-color:  #e9e9eb;
+  width : 75%;
+  margin-bottom : 15px;
+}
+
+.app__formControl{
+  display : flex !important;
+  flex: 1;
+  flex-direction: row !important;
+}
+
+.app__input{
+  flex:1;
+}
+
+.app__iconButton{
+  flex: 0;
+}
+
+.messenger{
+  width: 80%;
+}
+
+.friend__details{
+  width: 20%;
+}

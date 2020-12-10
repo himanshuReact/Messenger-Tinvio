@@ -1,0 +1,19 @@
+.details__friend{
+  padding-left: 30px;
+  position: fixed;
+  margin-top: 10%;
+  display: flex;
+  flex: 1;
+  padding-bottom: 1000px;
+}
+
+.details__friend .MuiPaper-rounded{
+  padding-top: 50px;
+  padding-bottom: 1000px;
+}
+
+
+div.makeStyles-root-3{
+    width: 100px;
+    margin-left: 100px;
+}
